@@ -1,4 +1,4 @@
-LibTM with Intel TSX Support.
+Moldyn with Intel TSX.
 =============================
 
 Mike Dai Wang, dai.wang AT mail.utoronto.ca
